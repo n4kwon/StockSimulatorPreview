@@ -6,3 +6,5 @@ StockSimulator is a stock trading platform that was developed as the final proje
 
 Here is a preview GIF of the website:
 ![StockSimulator Preview](searchDemo.gif)
+![StockSimulator Preview](buyDemo.gif)
+
